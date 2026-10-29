@@ -8,3 +8,7 @@ Ngnix installagtion
 
 ![Nginx installation](images/nginx.png)
 
+status
+
+![Nginx installation](images/nginx-status.png)
+
