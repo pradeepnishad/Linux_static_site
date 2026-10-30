@@ -64,3 +64,16 @@ reloading the browser
 curling 
 
 ![Nginx installation](images/newhtml.png)
+
+
+adding them in my local machine host file.
+
+![Nginx installation](images/hostfile.png)
+
+first page
+![Nginx installation](images/firstSitePage.png)
+
+
+second page
+
+![Nginx installation](images/secondSitePage.png)
