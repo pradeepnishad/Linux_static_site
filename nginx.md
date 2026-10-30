@@ -35,7 +35,7 @@ adding html in ngnix
 
 Configure Nginx to serve your website
 
-![Nginx installation](images/index.html.png)
+![Nginx installation](images/index.png)
 
 ### What did we configure?
 
