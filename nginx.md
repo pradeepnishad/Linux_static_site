@@ -22,9 +22,11 @@ run URL in host browser
 
 
 Architectural diagram
+
 ![Nginx installation](images/architecture.jpeg)
 
 giving permission to folder of nginx 
+
 ![Nginx installation](images/permission.png)
 
 
