@@ -37,14 +37,14 @@ Configure Nginx to serve your website
 
 ![Nginx installation](images/index.html.png)
 
-What did we configure?
-Directive	Purpose
-listen 80	Listen for HTTP requests
-root	Website directory
-index	Default homepage
-server_name	Matches incoming hostname
-location /	Handles website requests
-try_files	Checks whether requested files exist
+What did we configure?<br>
+Directive	Purpose<br>
+listen 80	Listen for HTTP requests<br>
+root	Website directory<br>
+index	Default homepage<br>
+server_name	Matches incoming hostname<br>
+location /	Handles website requests<br>
+try_files	Checks whether requested files exist<br>
 
 check the configuration file status
 
