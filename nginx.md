@@ -29,4 +29,27 @@ giving permission to folder of nginx
 
 ![Nginx installation](images/permission.png)
 
+adding html in ngnix 
 
+![Nginx installation](images/adding-html.png)
+
+Configure Nginx to serve your website
+
+![Nginx installation](images/index.html.png)
+
+What did we configure?
+Directive	Purpose
+listen 80	Listen for HTTP requests
+root	Website directory
+index	Default homepage
+server_name	Matches incoming hostname
+location /	Handles website requests
+try_files	Checks whether requested files exist
+
+check the configuration file status
+
+![Nginx installation](images/status-of-nginx.png)
+
+reloading the bash
+
+![Nginx installation](images/reload-nginx.png)
