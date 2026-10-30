@@ -55,3 +55,12 @@ check the configuration file status
 reloading the bash
 
 ![Nginx installation](images/reload-nginx.png)
+
+reloading the browser
+
+
+![Nginx installation](images/new-static.png)
+
+curling 
+
+![Nginx installation](images/newhtml.png)
