@@ -12,3 +12,11 @@ status
 
 ![Nginx installation](images/nginx-status.png)
 
+Test web server
+
+![Nginx installation](images/Test-web-server.png)
+
+run URL in host browser
+
+![Nginx installation](images/browser-nginx.png)
+
